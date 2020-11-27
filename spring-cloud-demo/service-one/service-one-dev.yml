@@ -22,4 +22,4 @@ management:
         include: bus-refresh
 
 
-welcome: hello
+welcome: hi
